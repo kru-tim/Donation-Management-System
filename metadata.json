@@ -1,0 +1,6 @@
+{
+  "name": "Donation Management System",
+  "description": "A web application for tracking donations, integrating with Google services for data storage and using Gemini API for slip processing.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
